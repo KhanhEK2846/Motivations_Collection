@@ -1,0 +1,1 @@
+DELETE FROM Friends WHERE attitude = 'toxic'

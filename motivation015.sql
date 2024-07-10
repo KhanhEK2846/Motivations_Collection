@@ -1,0 +1,1 @@
+SELECT memories FROM life WHERE type like 'joyful'
